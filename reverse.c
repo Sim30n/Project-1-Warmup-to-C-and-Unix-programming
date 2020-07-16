@@ -12,7 +12,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define LEN 1024
 FILE* tiedosto;
 
 struct Node{
